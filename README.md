@@ -13,8 +13,6 @@ An educational computer-vision project that classifies an uploaded skin-lesion i
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 
-**Author:** Pragya · **Role:** Machine Learning & Computer Vision Developer
-
 </div>
 
 ---
@@ -165,7 +163,7 @@ The project source code is available under the [MIT License](LICENSE). Dataset, 
 
 ## Author
 
-**Pragya** · Machine Learning & Computer Vision Developer
+**Pragya** 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pragya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pragya0405/)
 [![Email](https://img.shields.io/badge/Email-pragya.p0405%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pragya.p0405@gmail.com)
