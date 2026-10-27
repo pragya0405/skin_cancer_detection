@@ -1,0 +1,52 @@
+# Python bytecode and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+
+# Local application data
+*.db
+*.sqlite
+*.sqlite3
+/acc.txt
+
+# Large model files (GitHub blocks regular Git files over 100 MiB)
+/ResNet50_model.h5
+*.keras
+*.weights.h5
+
+# Local datasets and uploaded images
+/dataset/
+/train/**
+!/train/
+!/train/benign/
+!/train/benign/.gitkeep
+!/train/malignant/
+!/train/malignant/.gitkeep
+/test/**
+!/test/
+!/test/.gitkeep
+/static/images/**
+!/static/images/
+!/static/images/.gitkeep
+
+# Generated training / image-processing outputs
+/static/accuracy_plot.png
+/static/loss_plot.png
+/static/gray.jpg
+/static/edges.jpg
+/static/threshold.jpg
+/static/sharpened.jpg
+/static/assets/images/baby-weight.jpg
+/static/assets/images/fetus.jpg
+
+# macOS and editor files
+.DS_Store
+.vscode/
+.idea/
